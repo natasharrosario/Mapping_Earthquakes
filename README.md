@@ -5,7 +5,7 @@
 
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
 
-Additionally, for this module challenge, earthquake data in relation to the tectonic plates’ location on the earth, as well as earthquakes with a magnitude greater than 4.5 are displayed across three different maps, as shown below.
+Additionally, earthquake data in relation to the tectonic plates’ location on the earth, as well as earthquakes with a magnitude greater than 4.5, is displayed across three different maps, as shown below.
 
 STREETS Layer
 
